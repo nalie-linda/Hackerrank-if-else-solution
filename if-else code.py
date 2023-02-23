@@ -6,7 +6,6 @@ Link: https://www.hackerrank.com/challenges/py-if-else/problem
 =======================
 """
 
-
 def main():
     x = int(input("Enter a number"))
     return odd_even(x)
